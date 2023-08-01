@@ -1,7 +1,7 @@
 # NEVARA CycloR Tools 
 # An advanced Cyclo-rotor performance analysis tool based on Blade Element Momentum Theory.
 -------------------------------------------------------------------------------------------
-How to use : Video Guide : https://youtu.be/IvZ2kSKiXBk
+Video Guide : https://youtu.be/IvZ2kSKiXBk
 -------------------------------------------------------------------------------------------
 J.A.P.P. Jayasinghe | H.E. Edirisinghe | A.A.J.K. Adikari 
 Batch 18 - Group 01 - 2023
