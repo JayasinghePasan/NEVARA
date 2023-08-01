@@ -1,6 +1,8 @@
 # NEVARA CycloR Tools 
 # An advanced Cyclo-rotor performance analysis tool based on Blade Element Momentum Theory.
 -------------------------------------------------------------------------------------------
+How to use : Video Guide : https://youtu.be/IvZ2kSKiXBk
+-------------------------------------------------------------------------------------------
 J.A.P.P. Jayasinghe | H.E. Edirisinghe | A.A.J.K. Adikari 
 Batch 18 - Group 01 - 2023
 Department of Mechanical Engineering,
@@ -15,9 +17,11 @@ Project consists of 3 pillers which are,
   2. Converting the aerodynamic model into a software for the ease of the analysis.
   3. Validation of programme results using a fabricated test cyclo-rotor setup.
  
-You can find more details about our project using following resources.
+Aditional details are available on following sources.
   2023-04-04 - Progress Review II Report - https://dms.uom.lk/s/PXQ36kCDHLNi3KK
-
+  2023-08-02 - Final Report - 
+  2023-08-02 - Video Guide  -  https://youtu.be/IvZ2kSKiXBk
+  
 
 
 
